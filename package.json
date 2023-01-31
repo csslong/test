@@ -7,9 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "ant-design-vue": "^1.7.8",
+    "axios": "^0.24.0",
+    "browser-md5-file": "^1.1.1",
     "core-js": "^3.8.3",
+    "sass": "^1.54.0",
+    "sass-loader": "^10.1.1",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
+    "vue2-editor": "^2.10.3",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
